@@ -40,4 +40,4 @@ This instance have both [Adminer](http://www.adminer.org) and [MailCatcher](http
 * http://192.168.56.101/adminer
 * http://192.168.56.101:1080
 
-This also has XDebug installed and enabled. For help in setting up XDebug with PHPStorm, see this blog [post]: (http://jpasilan.technoph.info/xdebug/2014/12/18/xdebug-on-vagrant-puphpet/)
+This also has XDebug installed and enabled. For help in setting up XDebug with PHPStorm, see this blog [post] (http://jpasilan.technoph.info/xdebug/2014/12/18/xdebug-on-vagrant-puphpet/).
